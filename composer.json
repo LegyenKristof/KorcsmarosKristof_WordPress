@@ -6,5 +6,7 @@
             "Dik\\Wordpress\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "johnpbloch/wordpress": "^5.9"
+    }
 }
